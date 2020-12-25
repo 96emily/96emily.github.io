@@ -8,9 +8,12 @@
 # Build settings
 markdown: kramdown
 highlighter: rouge
-
+deploy: 
+type: git
+repository: git@github.com:96emily/96emily.github.io.git
+branch: master
 title: Test
-url: https://96emily.github.io
+url: git@github.com:96emily/96emily.github.io.git
 baseurl: '/home'
 #tagline: 
 #permalink: pretty
