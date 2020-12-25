@@ -3,14 +3,14 @@
 
 # author:
 # name: "emily lau"
-# url: https://emilylau.github.io
+# url: https://96emily.github.io
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 
 title: Test
-url: https://emilylau.github.io
+url: https://96emily.github.io
 baseurl: '/home'
 #tagline: 
 #permalink: pretty
